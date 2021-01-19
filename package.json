@@ -39,7 +39,8 @@
   "dependencies": {
     "d3-dispatch": "1 - 2",
     "d3-quadtree": "1 - 2",
-    "d3-timer": "1 - 2"
+    "d3-timer": "1 - 2",
+    "d3-transition": "^2.0.0"
   },
   "sideEffects": false,
   "devDependencies": {
